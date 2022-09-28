@@ -6,3 +6,5 @@
 This project is about...
 
 https://github.com/mkylahyun/DH110/edit/main/README.md
+
+![screen shot of npr]
