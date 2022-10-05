@@ -4,7 +4,7 @@ Mikayla Noh | DH 110 | Fall 2022
 ### About the Project - Responsible Consumption and Production
 The UN states that each year an estimated 1/3 of all food produced, which is equivalent to 1.3 billion tons, is wasted. We’ve all produced food waste at least once in our lives, either by letting our fruits and vegetables spoil or ordering more than we can eat at restaurants. Especially in big cities, we are surrounded by abundance of food that we do not realize how harmful wasting food is to our environment. According to the [UN](https://www.un.org/sustainabledevelopment/sustainable-consumption-production/), the food sector is responsible for about 30% of the world’s total energy consumption and about 22% of total Greenhouse Gas emissions. We need to realize that food production uses great amounts of our resources and energy so when we waste food, we are wasting all the resources that went into the production as well as increasing green house gas emissions. 
 
-At the cost of depleting our natural resources, we’re consuming and producing more to fuel the global economy thus creating as much waste. A step everyone can make towards responsible consumption and production is to live sustainably by reducing waste and learning waste management. For this project, I will be focusing on how we can adapt a sustainable lifestyle to reduce food waste and make responsible choices in managing food for a more sustainable future.
+At the cost of depleting our natural resources, we’re consuming and producing more to fuel the global economy thus creating as much waste. A step everyone can make towards responsible consumption and production is to live sustainably by reducing waste and learning waste management. For this project, I will be focusing on how we can adapt a sustainable lifestyle to reduce food waste and make responsible choices in managing food for a more sustainable future. I hope to contribute with my UX Design a website/app that can encourage sustainble lifestyles by offering tangible information with practical methods to reduce waste by consuming responsibly. 
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
@@ -32,6 +32,7 @@ At the cost of depleting our natural resources, we’re consuming and producing 
 
 ## Website 1: [Further with Food](https://www.furtherwithfood.org/)
 
+![furtherwfood](furtherwfood.png)
 ### About
 Further with Food is a center for food loss and waste solutions, devoted to reducing food waste, feeding hungry people, and diverting food to its most beneficial use. Users from businesses to investors and individuals are able to gain information about food loss and waste in the United States as well as solutions to reduce it from the many resources they provide. Further with Food also serves as a community platform where users can find and share information about proven solutions and innovate new approaches to combat food waste. 
 
@@ -55,6 +56,7 @@ Although the website contains and provides a lot of valuable information, the po
 
 ## Website 2: [Imperfect Foods](https://www.imperfectfoods.com/)
 
+![imperfectfoods](imperfectfoods.png)
 ### About
 Imperfect Foods is a website that encourages sustainability and reduces food waste by providing grocery delivery services. They carefully curate groceries that are "imperfect" and best of their kind to build a less wasteful world. Products that were just surplus or cosmetically unpleasing and had to go to waste are being offered to responsibly consume and reduce waste, supporting sustainable lifestyles. 
 
