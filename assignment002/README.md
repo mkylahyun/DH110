@@ -4,11 +4,11 @@ Mikayla Noh | DH 110 | Fall 2022
 ## Introduction: Cooklist App
 Cooklist is an app that helps to reduce food waste by keeping record of user’s pantry and encourages responsible consumption by formulating meals with products that are available in the pantry. They also provide meal plans to ensure what is going to be eaten throughout the week so that food waste is reduced to a minimum. Food waste is something most people are not too conscious of as food consumption is part of our daily lives. It is easily overlooked but this individual action of responsible consumption can contribute in reducing energy and help build a more sustainable future. After conducting a heuristic evaluation on the app, I have found some usability issues that can cause user to experience frustration and reduce their inclination of using the app. 
 
-#### 1. Lack of match between system and real world
+##### 1. Lack of match between system and real world
 The measurements that are used when users add ingredients or record used products are not intuitive. The quantity and units do not match with the real world. For example, if a user wants to write a recipe using 1 slice of bread, there is no unit option for “slice”. The jargon the app uses to indicate unit is difficult for users to understand. There is also no option to reduce quantity amount other than whole numbers. User won’t be able to indicate that they used “half” an avocado.
-#### 2. Lack of aesthetic design
+##### 2. Lack of aesthetic design
 In the pantry section, all items are displayed as images. This convolutes the page and makes it even harder for users to find items. There are way too many unnecessary items displayed without clarity and reduces usability. A minimalist design would be more helpful and easier for users to navigate through the section with just necessary information displayed. 
-#### 3. Lack of flexibility and efficiency of use
+##### 3. Lack of flexibility and efficiency of use
 When searching to add in shopping list, it only allows user to search through one grocery store at a time. Also, when writing a new recipe, the user needs to add ingredients one at a time as well as the quantities one at a time. These limitations make the app less efficient and overall delays the user when using the app. 
 
 ### Purpose of Usability Testing
@@ -42,13 +42,13 @@ My phone was used by the participant to perform the tasks within the app. To cap
 
 
 ## Links
-### UT Survey
+#### UT Survey
 * https://forms.gle/RLFotY9TYpxkGXW57
 
-### UT Participant / Moderator Video
+#### UT Participant / Moderator Video
 * https://drive.google.com/file/d/14GxUZwOrnYdop8CBSIZfaW9K9JXhoCkr/view?usp=sharing
 
-### UT Phone Screen Recording
+#### UT Phone Screen Recording
 * https://drive.google.com/drive/folders/1lD_hR9qQ4fETurjDNpNU2DXa768f7rXK?usp=sharing
 
 
