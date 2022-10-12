@@ -28,7 +28,7 @@ The pilot usability testing took place outdoors of a cafe in Los Angeles, Califo
 
 My phone was used by the participant to perform the tasks within the app. To capture the user flow, I asked my participant to start screen recording on the phone once they began the tasks. Upon completion, participants were given post-test questions that recorded the perceived effectiveness, efficiency, and satisfaction with the app to assess their experience. For the final section of the survey, participants answered some demographic questions.
 
-## Usability Testing Materials
+## Materials
 * Questionnaire including
   * Introduction script
   * Informed consent
