@@ -12,7 +12,7 @@ Mikayla Noh | DH110 | Fall 2022
 > The traditional solution to satisfy this need is through mental tracking and not letting food go to waste either by consuming only what is needed or using all items before expiring. Users can stay aware of their consumption on a daily and remember to consume items at an appropriate rate. 
 
 **What is(are) the limitation(s) that possibly would be improved?**
-> Users have limited capacity for memory and cannot keep track of all items. They can easily forget or their memory may not be accurate. The limitation of solely using mental tracking and visual cues can be improved by using the app as it will take less cognitive load and be more accurate than human memory. 
+> Users have limited capacity for memory and cannot keep track of all items. They can easily forget or their memory may not be accurate. The limitation of solely using mental tracking and visual cues can be improved by using the app as it will take less cognitive load on users and be more accurate than human memory. 
 
 ## Identify the Target Users
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
