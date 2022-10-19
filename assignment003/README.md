@@ -29,7 +29,7 @@ Mikayla Noh | DH110 | Fall 2022
 > Usually, users check the fridge and use visual cues of pantry items to keep mental track of the pantry or take notes whenever they are in need of certain items. For recipes, users search online, use personal knowledge, or ask family and friends. However many users typically do not keep track of the pantry. 
 
 ## Pick Research Method
-The research methods I employed are **overt participatory observation** and **interview**. I designed an activity for my participant to show how they organize their pantry to gain a better understanding of their behavior. I then developed a set of questions that were asked while my participant used the app to understand their needs and gain insight on user pain points.
+The research methods I employed are **overt participatory observation** and **interview**. I designed an activity for my participant that will allow me to observe how my participant organizes their pantry in efforts of gaining a better understanding of their behavior. I then developed a set of questions that were asked while my participant used the app to understand their needs and gain insight on user pain points.
 
 ## Research Material
 **1. Contextual Inquiry Guide**
