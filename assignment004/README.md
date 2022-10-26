@@ -28,10 +28,11 @@ Based on user research from previous assignments, users frequently feel overwhel
 ### 1. Lucy's Scenario & Journey Map
 
 #### Why?
-> fefe
+> Lucy is a mother of 3 children, wife to husband, and a diligent high school counselor. Due to her big family she goes grocery shopping every week and tends to overbuy without realizing she already has the same item at home. The fridge is always very full so she has a hard time organizing and keeping track of the pantry. She finds expired pantry items very often, hidden behind in the fridge by all the other items. Lucy also wants to provide healthy and nutritious food for her family but it becomes difficult to think of new recipes using similar ingredients. She wants to easily see what is availble in the pantry as well as document her own recipes to see what can be made. 
 
 #### How?
-> fefe
+> She hears about Cooklist and decides to download it. She opens the app and adds her pantry items by pressing the plus sign. She succesfully adds all the items and is returned to her pantry home page. She can easily see what items are expiring soon with the dates and her pantry items are neatly organized into its respective categories. She clicks on “Dairy” and sees a list of all her avaiable dairy products organized by name, quantity, and expiration date. She then clicks on the arrow next to “All” and sees the drop down menu for Fridge, Freezer, and Pantry. She can now separately view what is available in each section. Lucy then inputs her personal recipe by pressing on the plus sign in the meal plan tab. She selects all the ingredients using the search function and then moves on to the quanity section to choose the measurements. She is too busy so she skips writing in the steps for her recipe. Recommended serving size is shown and she is able to customize her recipe. 
+
 
 ### Lucy's Journey Map
 ![journeymap_lucy](journeymap_lucy.png)
