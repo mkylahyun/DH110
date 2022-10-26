@@ -12,7 +12,7 @@ Based on user research from previous assignments, users frequently feel overwhel
 ## Persona & Empathy Map
 
 ### Persona 1 - Lucy Mason: working mom
-![Persona1-Lucy](Persona1-Lucy.png)
+![Persona1-Lucyy](Persona1-Lucyy.png)
 
 #### Lucy's Empathy Map
 ![empathymap_lucy](empathymap_lucy.png)
@@ -34,7 +34,7 @@ Based on user research from previous assignments, users frequently feel overwhel
 > She hears about Cooklist and decides to download it. She opens the app and adds her pantry items by pressing the plus sign. She succesfully adds all the items and is returned to her pantry home page. She can easily see what items are expiring soon with the dates and her pantry items are neatly organized into its respective categories. She clicks on “Dairy” and sees a list of all her avaiable dairy products organized by name, quantity, and expiration date. She then clicks on the arrow next to “All” and sees the drop down menu for Fridge, Freezer, and Pantry. She can now separately view what is available in each section. Lucy then inputs her personal recipe by pressing on the plus sign in the meal plan tab. She selects all the ingredients using the search function and then moves on to the quanity section to choose the measurements. She is too busy so she skips writing in the steps for her recipe. Recommended serving size is shown and she is able to customize her recipe. 
 
 
-### Lucy's Journey Map
+### :world_map: Lucy's Journey Map
 ![journeymap_lucy](journeymap_lucy.png)
 
 ### 2. Daniel's Scenario & Journey Map
