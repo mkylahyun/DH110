@@ -24,3 +24,13 @@ Keeping the personas and usage scenario in mind, I came up with three features t
 1. Find freezer section and see what items are expiring soon
 2. Quick add personal recipe
 3. See how much money and food is being wasted
+
+## Wireframes and Wireflows
+![wireframe1](wireframe1.jpg)
+![wireframe2](wireframe2.jpg)
+![wireframe3](wireframe3.jpg)
+
+## Low-Fidelity Prototype Testing
+![userflow1](userflow1.jpg)
+![userflow2](userflow2.jpg)
+![userflow3](userflow3.jpg)
