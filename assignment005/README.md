@@ -32,6 +32,7 @@ Keeping the personas and usage scenario in mind, I came up with three features t
 
 ## Low-Fidelity Prototype Testing
 Task 1 is done in blue, Task 2 in pink, and Task 3 in purple. 
+![testing](testing.jpg)
 ![userflow1](userflow1.jpg)
 ![userflow2](userflow2.jpg)
 ![userflow3](userflow3.jpg)
