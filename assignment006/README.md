@@ -3,27 +3,32 @@ Mikayla Noh | DH110 | Fall 2022
 
 ## Project Purpose & Process Description
 The purpose of my project is to redesign Cooklist, a mobile app that helps users keep track of their pantry, to make the layout more usable so more users can easily view what they have in their pantry through the ease of their phones. Through this lifestyle change, users can consume more responsibly and reduce individual food waste. Although pantry tracking seems like an easy task, users often feel overwhelmed by the amount of information that is shown in the main screen. By clearly showing what items are expiring soon, users are able to quickly grasp this information. Visibly showing categories can also help with the feeling of overwhelmingness as they can easily navigate the app and accomplish their task. 
+
 Below is my example lo-fi wireframe that I have used as reference when creating the design in Figma. 
 ![exwire](exwire.png) 
 
 Full screen design tests are viewable [here](https://www.figma.com/file/eYioH1WNqZgr8LfyDJ2ejG/DH110_Assignment006?node-id=0%3A1) in Figma.
 
 ## Screen Design
-### Layouts
-#### Frame Layouts
+### **Layouts**
+### Frame Layouts:
 ![layout](layout.png)
 
-#### Text Layouts
+### Text Layouts:
 ![textlayout](textlayout.png)
 
-### Typography Variations
+### Typography Variations:
 ![typographies](typographies.png)
 
-### Shape Variations
+### Shape Variations:
 ![shapes](shapes.png)
 
-### Color Variations
-![colors](colors.png)
+### Color Variations:
+#### Light Color Variations:
+![lightvars](lightvars.png)
+
+#### Light and Dark Variations:
+![finaltwo](finaltwo.png)
 
 ## Impression Test
 Please find the recording of the impression test here.
