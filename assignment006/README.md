@@ -31,7 +31,7 @@ Full screen design tests are viewable [here](https://www.figma.com/file/eYioH1WN
 ![finaltwo](finaltwo.png)
 
 ## Impression Test
-Please find the recording of the impression test here.
+Please find the recording of the impression test [here](https://drive.google.com/drive/folders/16zsPKHjGiPKTr0OthUlr8IGF5hFzVcKe?usp=share_link).
 ### Summary of Findings
 The participant had a good general idea of what the app was for after the impression test as he assumed the app was for tracking food. He was able to remember the food icons, general context of the text, and colors. He specially noted how he remembers the colors being very pastel and described the feeling as "cute". However, even after a quick glance, he noted how it felt a bit cluttered and how some users might feel overwhelmed by the amount of information that is laid out. 
 
@@ -58,7 +58,7 @@ I decided to use 7 rows and 3 columns for my main grid to divide the top bar, "E
 ### Typeface Family & Size
 All text is in **#2D2410** color. 
 
-* For **header**, **titles**, **tabs** I used a typeface called **"Baloo 2"**
+* For **header**, **titles**, **tabs** I used a typeface called **"Baloo 2"**. I chose this font to gamify the process of pantry tracking so that users can feel more motivated to continue tracking their pantry rather than thinking it as a tedious chore. I tried using the font "Kumbh Sans" as seen in the second variation, but it seemed too proper and boring. However the third font I tried, "Sansita", was too decorative and didn't feel like it went well with the tracking aspect of the app. After looking at the different fonts, I decided "Baloo 2" was the best fit for the main titles and used "Mallana" for the body as it was similar in roundness yet a bit more straight so users can easily read their pantry list. 
   * Top Headline: 34px, ExtraBold
   * Expiring Soon Title: 24px, Bold
   * Expiring Soon Qty & Eat by: 16px, Medium
