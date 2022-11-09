@@ -33,14 +33,14 @@ Full screen design tests are viewable [here](https://www.figma.com/file/eYioH1WN
 ## Impression Test
 Please find the recording of the impression test [here](https://drive.google.com/drive/folders/16zsPKHjGiPKTr0OthUlr8IGF5hFzVcKe?usp=share_link).
 ### Summary of Findings
-The participant had a good general idea of what the app was for after the impression test as he assumed the app was for tracking food. He was able to remember the food icons, general context of the text, and colors. He specially noted how he remembers the colors being very pastel and described the feeling as "cute". However, even after a quick glance, he noted how it felt a bit cluttered and how some users might feel overwhelmed by the amount of information that is laid out. 
+The participant had a good general idea of what the app was for after the impression test as he assumed the app was for tracking food. He was able to remember the food icons, general context of the text, and colors. He specially noted how he remembers the colors being very pastel and described the feeling as "cute". However, even after a quick glance, he noted how it felt a bit cluttered and how some users might feel overwhelmed by the amount of information that is laid out. It is a matter of getting familiar with the interface, but if possible, I would like to work on simplifying the layout even more. 
 
 ## Accessibility (Color-Contrast) Check
 I used the Spark plugin in Figma to check the color contrast for the accessibility WCAG2.0 AA level. My design passed all the checks. 
-### Light-mode Check
+### Light-Mode Check
 ![lightcheck](lightcheck.png)
 
-### Dark-mode Check
+### Dark-Mode Check
 ![nightcheck](nightcheck.png)
 
 ## Design System
@@ -53,23 +53,23 @@ I wanted to use warmer colors with accents to give the pantry layout a more fun 
 
 ### Layout
 ![lay](lay.png)
+
 I decided to use 7 rows and 3 columns for my main grid to divide the top bar, "Expiring Soon" box, categories, "Meat & Seafood" box, and bottom bar and to seperate the main title and smaller text in the title. I then used another 4 column layout to align my bottom tab icons as well as the "Qty" and "Eat by" texts, which I aligned in the middle of the columns. For the category icons, I wanted to offset on the left to create a horizontal carousel so I used 5 columns with 85 px width and 16 px offset. I used 16 px gutter as well to create enough space but also show their relatedness. Since my "Expiring Soon" box had larger text, I created two text layouts -- one with 14 rows for "Expiring Soon" and 22 rows for "Meat & Seafood" since it has smaller text. 
 
 ### Typeface Family & Size
 All text is in **#2D2410** color. 
 
-* For **header**, **titles**, **tabs** I used a typeface called **"Baloo 2"**. I chose this font to gamify the process of pantry tracking so that users can feel more motivated to continue tracking their pantry rather than thinking it as a tedious chore. I tried using the font "Kumbh Sans" as seen in the second variation, but it seemed too proper and boring. However the third font I tried, "Sansita", was too decorative and didn't feel like it went well with the tracking aspect of the app. After looking at the different fonts, I decided "Baloo 2" was the best fit for the main titles and used "Mallana" for the body as it was similar in roundness yet a bit more straight so users can easily read their pantry list. 
-  * Top Headline: 34px, ExtraBold
-  * Expiring Soon Title: 24px, Bold
-  * Expiring Soon Qty & Eat by: 16px, Medium
-  * Categories Title: 20px, Medium
-  * Categories Subtitle: 14px, Medium
-  * Meat & Seafood Title: 20px, SemiBold
-  * Subtitle: 14px, Medium 
-  * Tabs: 10px, SemiBold
-* For **body** texts, I used a typeface called "Mallana"
-  * Expiring Soon Body: 18px
-  * Body: 16px
+For **header**, **titles**, **tabs** I used a typeface called **"Baloo 2"** and for **body** texts, I used a typeface called "Mallana". I chose these fonts to gamify the process of pantry tracking so that users can feel more motivated to continue tracking their pantry rather than thinking it as a tedious chore. I tried using the font "Kumbh Sans" as seen in the second variation, but it seemed too proper and boring. However the third font I tried, "Sansita", was too decorative and didn't feel like it went well with the tracking aspect of the app. After looking at the different fonts, I decided "Baloo 2" was the best fit for the main titles and used "Mallana" for the body as it was similar in roundness yet a bit more straight so users can easily read their pantry list. 
+* Top Headline: 34px, ExtraBold
+* Expiring Soon Title: 24px, Bold
+* Expiring Soon Qty & Eat by: 16px, Medium
+* Categories Title: 20px, Medium
+* Categories Subtitle: 14px, Medium
+* Meat & Seafood Title: 20px, SemiBold
+* Subtitle: 14px, Medium 
+* Tabs: 10px, SemiBold
+* Expiring Soon Body: 18px
+* Body: 16px
 
 
 
