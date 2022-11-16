@@ -27,7 +27,7 @@ The wireflow can also be seen [here](https://www.figma.com/file/leVkul1V7MAmqo8S
 ![task3](task3.png)
 
 ## Updates
-![changes](changes.png)
+![change](change.png)
 
 Based on the feedback I got while working on this assignment and the previous impression test, I changed the design of my interface. The biggest concern was how I can organize the pantry layout so that it can look properly categorized and not cluttered while working with many items, considering that the app is to track user's pantry- which usually have many items. I first changed my frame size from iPhone 8 to iPhone 13 to give the overall layout more space. I tried many iterations of different colors, which can be found [here](https://www.figma.com/file/5OEGBNRDuOOJ74QofOlv5U/Design-Changes), to see what color can spark excitement when using the app. The previous color choices looked too dark and not clean enough so I opted for using more cool tones, blue, with warm accents through the color yellow. I also changed the body's font style from "Mallanna" to "Rubik" following the clean look and to give it more structure.
 
