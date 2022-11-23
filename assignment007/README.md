@@ -40,3 +40,14 @@ https://www.figma.com/proto/leVkul1V7MAmqo8Sa6U1N6/DH110-Assignment07-Wireframes
 ## Cognitive Walkthrough
 
 I conducted a cognitive walkthrough with my peers during class in Week 8. An impression test was done first, asking what they see, what they think the app is about, and what they think can be done with the app. I then briefly explained the app's purpose and uses to my two classmates and asked them to complete two tasks. The first task was to find expired items in the pantry section and to go through all the different sections. The second task was to find personal expenses and waste and see how much food waste they created. During the walkthrough, I asked if they had any comments and received feedback upon completion of tasks. Their comments and notes from the cognitive walkthrough can be found [here](https://docs.google.com/document/d/1YYr9-TXIdPatnHjyW8pMslZXyIW812qU6RJZJFq7wEk/edit?usp=sharing).
+
+### Summary of Cogntive Walkthrough
+Overall, the cognitive walkthrough went very well. Both my peers correctly predicted the app's purpose and were able to complete all the tasks. This showed that the app design prototype is self-explanatory, simple, and easy to use. 
+> I wanted to highlight "expiring soon" items as one of the most crucial part of the app and my classmates noted that it stood out the most. 
+> Since the pantry has many different items, it took time to curate the layout of the pantry section but they mentioned the app is very simple to use and feels intuitive as the design looks like a fridge.
+
+However I ran into a new problem that I did not have during my low fidelity prototype testing. 
+> One of my classmate did not realize/expect the "expiring soon" card to be clickable and was surprised when she accidentally clicked and was taken to a new page. The drop shadows that were added were not sufficient enough to afford clickability.
+I plan to change the design of the "expiring soon" card by adding "view more" or an arrow next to the title so that it looks more clickable.
+> Another problem was that the change from one section to another was so minimal that users may not be able to easily distinguish the change. 
+The layout for each section - All, Fridge, Freezer - are all similar so using different shade of color may allow user to distinguish the different sections more easily. 
