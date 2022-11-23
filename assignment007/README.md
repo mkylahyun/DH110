@@ -54,3 +54,22 @@ The drop shadows that were added were not sufficient enough to afford clickabili
 > Another problem that my classmate noted was that the change from one section to another was so minimal that users may not be able to easily distinguish the change. 
 
 The layout for each section - All, Fridge, Freezer - are all similar so using different shade of color may allow user to distinguish the different sections more easily. This can improve visiblity of system status and create more differences between the sections so I think this is a good design change I can implement in my next prototype.
+
+## Usability Testing
+
+Before usability testing, I made some small changes to the design according to the feedback I got in the cognitive walkthrough. 
+The changes include:
+* Switching categories and "expiring soon" order to give more prominence to "expiring soon" card by having it in the middle of the page
+* Making categories smaller and "expiring soon" larger
+* Design change in "expiring soon" card to make it look more clickable
+* Color change for "expiring soon" page to allow easier distinguishability between sections and cohesiveness
+* Smaller categories for "expiring soon" page for more differences/distinguishability
+
+The following usability tests were conducted over Zoom. Participants shared their screen that displayed the prototype and usability test form and followed given directions as I walked them through the test. The usability test form can be accessed [here](https://forms.gle/9goPPfEdFr3Xyd7D6). 
+
+### Usability Test #1
+
+My participant was a 23 year old female who enjoys cooking and has had previous experience living alone, buying groceries, and managing the pantry. She has never used Cooklist but has previous experience using other food-tracking apps for diet/health reasons. The full recording was unfortunately lost but a short test recording clip as evidence of usability test can be found [here](https://drive.google.com/drive/folders/1Twu7XgzMQJyyg_V-Wds8Yi-694c_oesp?usp=sharing). However her responses are still accessible and saved in the usability test form that can be viewed [here](https://docs.google.com/forms/d/e/1FAIpQLSf6syBLpTXwPt2C4za67BNhgz-P5KgrCdi5QaDybykJTOfHMQ/viewform?usp=sharing). 
+
+**Insights**
+
