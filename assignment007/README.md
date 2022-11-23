@@ -46,8 +46,11 @@ Overall, the cognitive walkthrough went very well. Both my peers correctly predi
 > I wanted to highlight "expiring soon" items as one of the most crucial part of the app and my classmates noted that it stood out the most. 
 > Since the pantry has many different items, it took time to curate the layout of the pantry section but they mentioned the app is very simple to use and feels intuitive as the design looks like a fridge.
 
-However I ran into a new problem that I did not have during my low fidelity prototype testing. 
-> One of my classmate did not realize/expect the "expiring soon" card to be clickable and was surprised when she accidentally clicked and was taken to a new page. The drop shadows that were added were not sufficient enough to afford clickability.
-I plan to change the design of the "expiring soon" card by adding "view more" or an arrow next to the title so that it looks more clickable.
-> Another problem was that the change from one section to another was so minimal that users may not be able to easily distinguish the change. 
-The layout for each section - All, Fridge, Freezer - are all similar so using different shade of color may allow user to distinguish the different sections more easily. 
+However I ran into a new problem that I did not have during my low fidelity prototype testing. One of my classmate did not realize/expect the "expiring soon" card to be clickable and was surprised when she accidentally clicked and was taken to a new page. 
+> She mentioned that drop shadows are usually for small buttons so users might not be too sure if it's clickable for "expiring soon". The "expiring soon" card didn't seem clickable. 
+
+The drop shadows that were added were not sufficient enough to afford clickability.I plan to change the design of the "expiring soon" card by adding "view more" or an arrow next to the title so that it looks more clickable.
+
+> Another problem that my classmate noted was that the change from one section to another was so minimal that users may not be able to easily distinguish the change. 
+
+The layout for each section - All, Fridge, Freezer - are all similar so using different shade of color may allow user to distinguish the different sections more easily. This can improve visiblity of system status and create more differences between the sections so I think this is a good design change I can implement in my next prototype.
