@@ -72,16 +72,38 @@ The following usability tests were conducted over Zoom. Participants shared thei
 My participant was a 23 year old female who enjoys cooking and has had previous experience living alone, buying groceries, and managing the pantry. She has never used Cooklist but has previous experience using other food-tracking apps for diet/health reasons. The full recording was unfortunately lost but a short test recording clip as evidence of usability test can be found [here](https://drive.google.com/drive/folders/1Twu7XgzMQJyyg_V-Wds8Yi-694c_oesp?usp=sharing). However her responses are still accessible and saved in the usability test [form](https://docs.google.com/forms/d/e/1FAIpQLSf6syBLpTXwPt2C4za67BNhgz-P5KgrCdi5QaDybykJTOfHMQ/viewform?usp=sharing). 
 
 **Insights**
-💡 Easy to view what items are expiring soon with red 'eat by' dates
-This participant found it very easy to navigate through the different sections and had no problem completing the first task. She was able to go through every section and found all the expiring soon items. She noted that the red texts definitely give her a sense of urgency to consume them before it goes to waste. However she suggested having a sort function to organize all items by expiring dates regardless of categories. 
 
-💡 Confusing title and number for "food waste" graph 
-When doing the second task, she mentioned that since the number and graph visually come to her eyes first, she thought that the number was percentage of food waste. The smaller text below further explains the graph but reading the text comes secondary so she struggled a bit at first. She also noted that the red colored part of the graph depicts the food waste/ potential waste pretty well but wished the graph was a bit more clear.
+💡 **Easy to view what items are expiring soon with red 'eat by' dates**
+> This participant found it very easy to navigate through the different sections and had no problem completing the first task. She was able to go through every section and found all the expiring soon items. She noted that the red texts definitely give her a sense of urgency to consume them before it goes to waste. However she suggested having a sort function to organize all items by expiring dates regardless of categories. 
 
-💡 Categories for expenses and waste
+💡 **Confusing title and number for "food waste" graph**
+> When doing the second task, she mentioned that since the number and graph visually come to her eyes first, she thought that the number was percentage of food waste. The smaller text below further explains the graph but reading the text comes secondary so she struggled a bit at first. She also noted that the red colored part of the graph depicts the food waste/ potential waste pretty well but wished the graph was a bit more clear.
+
+💡 **Categories for expenses and waste**
+
 She was able to complete the second task as well, and enjoyed the feature to see weekly and monthly reports for expenses and waste. However for each, she suggested having a feature that separates the spending/waste even more by categories so that she can see how much of what she buys the most/least as well as how much of what she wastes often. 
 
 ## Usability Test #2
-💡 
+
+My second usability test participant was a 25 year old male who currently works and lives with a roommate. He enjoys eating and grocery shops every couple weeks. Due to his love for food, he tends to produce very little to no food waste and tries to cook at home whenever he is able to. He has never used a pantry tracking or any diet-related tracking apps before. The link to the usability test recording can be found [here](https://drive.google.com/drive/folders/1dkGy9TWZbYJrQ46dUEbwo6qrIpw34Gvq?usp=sharing). 
+
+**Insights**
+
+💡 **Clicking dropdown menu**
+
+
+💡 **Viewing expenses and waste**
+> The participant was not able to find where to view expenses and waste on his first try. He first looked in the bottom navigation tab and clicked on "Shop". However he clicked on the profile icon after his initial attempt and was able to locate it. He mentioned that he was a bit taken aback when the profile icon immediately displayed the expenses and waste. He did not expect to see it right away and said it was a bit odd as he is used to seeing more menus and options in "profile" view. 
+
+If this becomes a reoccuring problem in my future usability tests, I am considering making a new tab in the navigation bar for viewing personal expenses and waste. I think it's an important and useful feature in the app that can motivate users to continue tracking their pantry so having it more visible may be a good idea.
+
+💡 **Ability to see progress and each day's spending**
+> He was very enthusiastic about the personal expenses and waste feature. He mentioned that although he uses other finance apps, they usually have all categories of spending so it is nice to be able to specifically see a graph for grocery expenses. He did not have any difficulty completing the second task but he preferred seeing each day for the week's report rather than just the total. Since some users grocery shop everyday, it would be better to see spending for each day rather than a total. He also thought he would be able to use the arrows to view previous months/weeks. He suggested it would be even more motivating to see history and view personal progress.
+
+I plan to add a bar or line graph that displays each day of expense/waste for the week in my next updated prototype. I also think being able to see progress would be a nice feature to have and plan to add another graph that can display each month. It can notify users how much they have saved/reduced waste compared to the previous month and can encourage living sustainably. 
+
+
+
+
 
 
