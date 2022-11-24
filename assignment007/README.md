@@ -72,9 +72,16 @@ The following usability tests were conducted over Zoom. Participants shared thei
 My participant was a 23 year old female who enjoys cooking and has had previous experience living alone, buying groceries, and managing the pantry. She has never used Cooklist but has previous experience using other food-tracking apps for diet/health reasons. The full recording was unfortunately lost but a short test recording clip as evidence of usability test can be found [here](https://drive.google.com/drive/folders/1Twu7XgzMQJyyg_V-Wds8Yi-694c_oesp?usp=sharing). However her responses are still accessible and saved in the usability test [form](https://docs.google.com/forms/d/e/1FAIpQLSf6syBLpTXwPt2C4za67BNhgz-P5KgrCdi5QaDybykJTOfHMQ/viewform?usp=sharing). 
 
 **Insights**
-💡 "The expiring soon items are very easy to view and I like how the 'eat by' texts are in red."
-This participant found it very easy to navigate through the different sections and had no problem completing the first task. She was able to go through every section and found all the expiring soon items. She noted that the red texts definitely gives her a sense of urgency to consume them before it goes to waste. 
+💡 Easy to view what items are expiring soon with red 'eat by' dates
+This participant found it very easy to navigate through the different sections and had no problem completing the first task. She was able to go through every section and found all the expiring soon items. She noted that the red texts definitely give her a sense of urgency to consume them before it goes to waste. However she suggested having a sort function to organize all items by expiring dates regardless of categories. 
 
 💡 Confusing title and number for "food waste" graph 
-When doing the second task, she mentioned that since the number and graph is the first thing that visually comes to her eyes, she thought that the number was the percentage of food waste. 
+When doing the second task, she mentioned that since the number and graph visually come to her eyes first, she thought that the number was percentage of food waste. The smaller text below further explains the graph but reading the text comes secondary so she struggled a bit at first. She also noted that the red colored part of the graph depicts the food waste/ potential waste pretty well but wished the graph was a bit more clear.
+
+💡 Categories for expenses and waste
+She was able to complete the second task as well, and enjoyed the feature to see weekly and monthly reports for expenses and waste. However for each, she suggested having a feature that separates the spending/waste even more by categories so that she can see how much of what she buys the most/least as well as how much of what she wastes often. 
+
+## Usability Test #2
+💡 
+
 
