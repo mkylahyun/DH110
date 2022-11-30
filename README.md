@@ -160,7 +160,9 @@ The full evaluation/revision history's notes can be found [here >> ](https://git
 
 ### Pitch Video
 
-The pitch video can be found [here](https://drive.google.com/drive/folders/1JiekZqukPtHFKYhFUXyKFX3JIugrFDQV?usp=share_link).
+The pitch video can be found here.
+
+[![Pitch Video](http://img.youtube.com/vi/agjHtAamxNM/0.jpg)](https://youtu.be/agjHtAamxNM)
 
 ### Conclusion
 Through this project, the biggest thing I learned was how long and meticulous the whole UX design process is. There were many steps before the design process that had to be done, but I really enjoyed how we were able to research and get feedback right away and implement changes accordingly. Whenever I would have an assumption on users or create a prototype, there would always be some new feedbacks that I did not think about, which made the whole process very interesting. Problems or features that I thought were important were not in some cases, and some that I thought were not even an issue, became one during research. I think that is where the fun of UX design lies - both research and designing. As someone who enjoys interacting with people, the research process was more enjoyable than I thought. As for the design process, I realized how scientific and long it can take. I felt quite indecisive soemtimes and would make many variations of the design, not being sure which would provide the best experience. There were many minor issues that would take away from the experience and make the app less or more usable that I had to account for. Now, I learned to appreciate the UX/UI design of apps I see today and will keep in mind of how I feel when using apps to further understand how to make an app or product more usable. 
