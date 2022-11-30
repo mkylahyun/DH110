@@ -27,7 +27,7 @@ The wireflow can also be seen [here](https://www.figma.com/file/leVkul1V7MAmqo8S
 ![task3](task3.png)
 
 ## Updates
-![change](change.png)
+<img src="https://user-images.githubusercontent.com/114601927/204769994-cf710e33-daa3-4c2f-a51b-8a540cc87ae9.png" height="700px">
 
 Based on the feedback I got while working on this assignment and the previous impression test, I changed the design of my interface. The biggest concern was how I can organize the pantry layout so that it can look properly categorized and not cluttered while working with many items, considering that the app is to track user's pantry- which usually have many items. I first changed my frame size from iPhone 8 to iPhone 13 to give the overall layout more space. I tried many iterations of different colors, which can be found [here](https://www.figma.com/file/5OEGBNRDuOOJ74QofOlv5U/Design-Changes), to see what color can spark excitement when using the app. The previous color choices looked too dark and not clean enough so I opted for using more cool tones, blue, with warm accents through the color yellow. I also changed the body's font style from "Mallanna" to "Rubik" following the clean look and to give it more structure.
 
@@ -58,12 +58,16 @@ The layout for each section - All, Fridge, Freezer - are all similar so using di
 ## Usability Testing
 
 Before usability testing, I made some small changes to the design according to the feedback I got in the cognitive walkthrough. 
+
+<img height="500px" alt="Screen Shot 2022-11-30 at 2 08 09 AM" src="https://user-images.githubusercontent.com/114601927/204768214-5c2cd1b7-35bc-475e-a33d-2f3bee17425f.png">
+
 The changes include:
 * Switching categories and "expiring soon" order to give more prominence to "expiring soon" card by having it in the middle of the page
 * Making categories smaller and "expiring soon" larger
 * Design change in "expiring soon" card to make it look more clickable
 * Color change for "expiring soon" page to allow easier distinguishability between sections and cohesiveness
 * Smaller categories for "expiring soon" page for more differences/distinguishability
+* Softer drop shadow to not confuse clickability for users
 
 The following usability tests were conducted over Zoom. Participants shared their screen that displayed the prototype and usability test form and followed given directions as I walked them through the test. The usability test form can be accessed [here](https://forms.gle/9goPPfEdFr3Xyd7D6). 
 
@@ -80,17 +84,13 @@ My participant was a 23 year old female who enjoys cooking and has had previous 
 > When doing the second task, she mentioned that since the number and graph visually come to her eyes first, she thought that the number was percentage of food waste. The smaller text below further explains the graph but reading the text comes secondary so she struggled a bit at first. She also noted that the red colored part of the graph depicts the food waste/ potential waste pretty well but wished the graph was a bit more clear.
 
 💡 **Categories for expenses and waste**
-
-She was able to complete the second task as well, and enjoyed the feature to see weekly and monthly reports for expenses and waste. However for each, she suggested having a feature that separates the spending/waste even more by categories so that she can see how much of what she buys the most/least as well as how much of what she wastes often. 
+> She was able to complete the second task as well, and enjoyed the feature to see weekly and monthly reports for expenses and waste. However for each, she suggested having a feature that separates the spending/waste even more by categories so that she can see how much of what she buys the most/least as well as how much of what she wastes often. 
 
 ## Usability Test #2
 
 My second usability test participant was a 25 year old male who currently works and lives with a roommate. He enjoys eating and grocery shops every couple weeks. Due to his love for food, he tends to produce very little to no food waste and tries to cook at home whenever he is able to. He has never used a pantry tracking or any diet-related tracking apps before. The link to the usability test recording can be found [here](https://drive.google.com/drive/folders/1dkGy9TWZbYJrQ46dUEbwo6qrIpw34Gvq?usp=sharing). 
 
 **Insights**
-
-💡 **Clicking dropdown menu**
-
 
 💡 **Viewing expenses and waste**
 > The participant was not able to find where to view expenses and waste on his first try. He first looked in the bottom navigation tab and clicked on "Shop". However he clicked on the profile icon after his initial attempt and was able to locate it. He mentioned that he was a bit taken aback when the profile icon immediately displayed the expenses and waste. He did not expect to see it right away and said it was a bit odd as he is used to seeing more menus and options in "profile" view. 
@@ -101,6 +101,20 @@ If this becomes a reoccuring problem in my future usability tests, I am consider
 > He was very enthusiastic about the personal expenses and waste feature. He mentioned that although he uses other finance apps, they usually have all categories of spending so it is nice to be able to specifically see a graph for grocery expenses. He did not have any difficulty completing the second task but he preferred seeing each day for the week's report rather than just the total. Since some users grocery shop everyday, it would be better to see spending for each day rather than a total. He also thought he would be able to use the arrows to view previous months/weeks. He suggested it would be even more motivating to see history and view personal progress.
 
 I plan to add a bar or line graph that displays each day of expense/waste for the week in my next updated prototype. I also think being able to see progress would be a nice feature to have and plan to add another graph that can display each month. It can notify users how much they have saved/reduced waste compared to the previous month and can encourage living sustainably. 
+
+---
+### Design Revisions
+<img height="700px" alt="Screen Shot 2022-11-30 at 2 24 09 AM" src="https://user-images.githubusercontent.com/114601927/204771486-24d5b5e6-d99f-4b7c-b4e8-588b1fee7b4f.png">
+
+I revised my design, specifially in the personal expense/waste section, after conducting the usability tests for more clarity and visual images. 
+
+The changes include:
+* Changing location of where to view personal expense/waste from Pantry profile icon to "Progress" tab
+* Changing "Plan" tab to "Progress"
+* Changing "Food Waste" graph name to "Food Consumption & Waste"
+* Including days of the week and previously history in graphs
+* More specific details informing user of which cateogry of food they consume/waste most/least
+* Overview of all the months for user to see personal progress 
 
 
 
