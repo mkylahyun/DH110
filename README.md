@@ -9,8 +9,8 @@ We’ve all produced food waste at least once in our lives, either by letting ou
 ### Design Statement
 Especially in big cities, we are surrounded by abundance of food that we do not realize how harmful wasting food is to our environment. However, the food sector is responsible for about 30% of the world’s total energy consumption and about 22% of total greenhouse gas emissions. This means that we are wasting all the resources that went into production as well as increasing greenhouse gas emissions whenever food is wasted. At the cost of depleting our natural resources, we’re consuming and producing more to fuel the global economy. Food waste is something most people are not too conscious of as food consumption is part of our daily lives. It is easily overlooked but this individual action of responsible consumption can contribute in reducing energy and help build a more sustainable future.
 
-### Competitor Analysis
-## Heuristic Evaluation
+## Competitor Analysis
+### Heuristic Evaluation
 To generally see how food waste was being combatted, I conducted heuristic evaluations on two websites: 
 
 1. [Further with Food](https://www.furtherwithfood.org/)
@@ -158,3 +158,11 @@ If this becomes a reoccuring problem in my future usability tests, I am consider
 > He was very enthusiastic about the personal expenses and waste feature. He mentioned that although he uses other finance apps, they usually have all categories of spending so it is nice to be able to specifically see a graph for grocery expenses. He did not have any difficulty completing the second task but he preferred seeing each day for the week's report rather than just the total. Since some users grocery shop everyday, it would be better to see spending for each day rather than a total. He also thought he would be able to use the arrows to view previous months/weeks. He suggested it would be even more motivating to see history and view personal progress.
 
 I plan to add a bar or line graph that displays each day of expense/waste for the week in my next updated prototype. I also think being able to see progress would be a nice feature to have and plan to add another graph that can display each month. It can notify users how much they have saved/reduced waste compared to the previous month and can encourage living sustainably. 
+
+### Pitch Video
+
+The pitch video can be found [here](https://drive.google.com/drive/folders/1JiekZqukPtHFKYhFUXyKFX3JIugrFDQV?usp=share_link).
+
+### Conclusion
+Through this project, the biggest thing I learned was how long and meticulous the whole UX design process is. I really enjoyed how we were able to get feedback right away and implement changes accordingly. Everytime I would make a new assumption or prototype, there would be some new feedbacks that I didn't even think of that made the whole process very interesting. I think that is where the fun of UX Design lies - both research and designing. As someone who enjoys interacting with people, the research process was more enjoyable than I thought. As for the design process, I realized how scientific and long it can take. There were many minor issues that would take away from the experience and make the app less or more usable. I learned to appreciate the UX/UI design of apps I see today and keep in mind how to make an app or product more usable in general. 
+
