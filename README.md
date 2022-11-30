@@ -75,7 +75,7 @@ Although pantry tracking seems like an easy task, users often feel overwhelmed b
 
 
 ### Graphic Design Element Variations
-While creating the prototype, I tested many different graphic design element variations of typography, shape, color, and light/dark modes that can be further viewed [here](https://mkylahyun.github.io/DH110/assignment006)
+While creating the prototype, I tested many different graphic design element variations of typography, shape, color, and light/dark modes that can be further viewed [here](https://mkylahyun.github.io/DH110/assignment006).
 
 
 ### High-Fidelity Prototype
@@ -146,7 +146,7 @@ My second usability test participant was a 25 year old male who currently works 
 
 💡 Wanting to see progress and each day's spending instead of total week and month summary
 
-The full evaluation/revision history's notes can be found here [ >> ](https://github.com/mkylahyun/DH110/tree/main/assignment007)
+The full evaluation/revision history's notes can be found [here >> ](https://github.com/mkylahyun/DH110/tree/main/assignment007)
 
 ### Pitch Video
 
