@@ -13,13 +13,18 @@ Especially in big cities, we are surrounded by abundance of food that we do not 
 To generally see how food waste was being combatted, I conducted heuristic evaluations on two websites: 
 
 1. [Further with Food](https://www.furtherwithfood.org/)
+<img src="https://user-images.githubusercontent.com/114601927/204768534-1cdbbd1f-46e1-48de-ab79-2aeea07a5d2f.png" height="300px">
+
 > Further with Foods is a center for food loss and waste solutions, devoted to reducing food waste, feeding hungry people, and diverting food to its most beneficial use. The website contains and provides a lot of valuable information, but the poor organization of the resources makes it overwhelming to use and incomprehensible. The website overall felt very outdated and the solutions provided did not seem as tangible.
-![image](https://user-images.githubusercontent.com/114601927/204733489-1542ff5d-cc15-46f7-8512-26b3f4babc24.png)
+
+
 
 
 2. [Imperfect Foods](https://www.imperfectfoods.com/)
+<img src="https://user-images.githubusercontent.com/114601927/204730467-e394e32c-7c6d-43b8-b609-0eb1dd1a61d1.png" height="300px">
+
 > Imperfect Foods is a website that encourages sustainability and reduces food waste by providing grocery delivery services with imperfect foods that would've gone to waste. The website is aesthetically pleasing and easy to use overall and provides good information on food waste for consumers to educate themselves. However the lack of user control and freedom makes the website difficult to use and can frustrate some users that may want to exit out of the sign-up process and just browse. 
-![image](https://user-images.githubusercontent.com/114601927/204730467-e394e32c-7c6d-43b8-b609-0eb1dd1a61d1.png)
+
 
 [ ... read more >> ](https://mkylahyun.github.io/DH110/assignment001)
 
@@ -47,13 +52,18 @@ With the personas and usage scenario in mind, I came up with three features they
 * Quick recipe feature where users can quickly add personal recipes
 
 **Persona 1: Lucy Mason**
-![image](https://user-images.githubusercontent.com/114601927/204731488-2d432286-781d-4347-8f6c-0943fda918b0.png)
+
+<img src="https://user-images.githubusercontent.com/114601927/204731488-2d432286-781d-4347-8f6c-0943fda918b0.png" height="300px">
 
 **Empathy Map** 
-![image](https://user-images.githubusercontent.com/114601927/204731618-b0e0cd39-1d6d-4baf-87b7-05772163c3aa.png)
+
+<img src="https://user-images.githubusercontent.com/114601927/204731618-b0e0cd39-1d6d-4baf-87b7-05772163c3aa.png" height="300px">
+
 
 **Journey Map**
-![image](https://user-images.githubusercontent.com/114601927/204731701-72345397-5a7d-4fe4-bf49-0153c8e28d6b.png)
+
+<img src="https://user-images.githubusercontent.com/114601927/204731701-72345397-5a7d-4fe4-bf49-0153c8e28d6b.png" height="300px">
+
 
 **<sub>Lucy is a mother of 3 children, wife to husband, and a diligent high school counselor. Due to her big family she goes grocery shopping every week and tends to overbuy without realizing she already has the same item at home. The fridge is always very full so she has a hard time organizing and keeping track of the pantry. She finds expired pantry items very often, hidden behind in the fridge by all the other items. Lucy also wants to provide healthy and nutritious food for her family but it becomes difficult to think of new recipes using similar ingredients. She wants to easily see what is availble in the pantry as well as document her own recipes to see what can be made.</sub>**
 
