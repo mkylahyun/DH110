@@ -105,5 +105,3 @@ I plan to add a bar or line graph that displays each day of expense/waste for th
 
 
 
-
-
