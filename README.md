@@ -13,6 +13,7 @@ Especially in big cities, we are surrounded by abundance of food that we do not 
 To generally see how food waste was being combatted, I conducted heuristic evaluations on two websites: 
 
 1. [Further with Food](https://www.furtherwithfood.org/)
+
 <img src="https://user-images.githubusercontent.com/114601927/204768534-1cdbbd1f-46e1-48de-ab79-2aeea07a5d2f.png" height="300px">
 
 > Further with Foods is a center for food loss and waste solutions, devoted to reducing food waste, feeding hungry people, and diverting food to its most beneficial use. The website contains and provides a lot of valuable information, but the poor organization of the resources makes it overwhelming to use and incomprehensible. The website overall felt very outdated and the solutions provided did not seem as tangible.
@@ -21,6 +22,7 @@ To generally see how food waste was being combatted, I conducted heuristic evalu
 
 
 2. [Imperfect Foods](https://www.imperfectfoods.com/)
+
 <img src="https://user-images.githubusercontent.com/114601927/204730467-e394e32c-7c6d-43b8-b609-0eb1dd1a61d1.png" height="300px">
 
 > Imperfect Foods is a website that encourages sustainability and reduces food waste by providing grocery delivery services with imperfect foods that would've gone to waste. The website is aesthetically pleasing and easy to use overall and provides good information on food waste for consumers to educate themselves. However the lack of user control and freedom makes the website difficult to use and can frustrate some users that may want to exit out of the sign-up process and just browse. 
