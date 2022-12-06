@@ -35,7 +35,7 @@ Based on the feedback I got while working on this assignment and the previous im
 
 I changed the expenses and money tracking page to be found in "Profile" instead of in the "Pantry" options as it is a more personal feature than it is related to the Pantry. The layout of the page is also more visual as I used graphs to give users an easy summary instead of another list. I changed the wording to be more motivational as well to encourage users to continue reducing food waste rather than discourgae them from using the app and not track their pantry. I added a title for the Pantry section to give more clarity on what tab users are on instead of just having "All". I also bolded the bottom tab and made the icon bigger as it seemed too small and thin in the previous iteration.  
 
-https://www.figma.com/proto/leVkul1V7MAmqo8Sa6U1N6/DH110-Assignment07-Wireframes-with-GUI?node-id=133%3A26794&scaling=scale-down&page-id=0%3A1&starting-point-node-id=133%3A26794&show-proto-sidebar=1
+Prototype [here](https://www.figma.com/proto/leVkul1V7MAmqo8Sa6U1N6/DH110-Assignment07-Wireframes-with-GUI?node-id=133%3A26794&scaling=scale-down&page-id=0%3A1&starting-point-node-id=133%3A26794&show-proto-sidebar=1). 
 
 ## Cognitive Walkthrough
 
@@ -116,6 +116,6 @@ The changes include:
 * More specific details informing user of which cateogry of food they consume/waste most/least
 * Overview of all the months for user to see personal progress 
 
-
+Link to the updated interactive prototype can be found [here](https://www.figma.com/proto/16GKBWDAnDaKnMN0ctXPzO/DH-110---ASSIGNMENT-7%2F8-HI-FI-Prototype?node-id=407%3A15592&scaling=scale-down&page-id=0%3A1&starting-point-node-id=165%3A38142). 
 
 
