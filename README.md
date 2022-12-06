@@ -81,17 +81,19 @@ I kept in mind the personas and scenario and sketched a simple layout that can b
 
 
 ### Wireframe and Graphic Design Element Variation
-Although pantry tracking seems like an easy task, users often feel overwhelmed by the amount of information that is shown in the main screen. By clearly showing what items are expiring soon, users are able to quickly grasp this information. Visibly showing categories can also help with the feeling of overwhelmingness as they can easily navigate the app and accomplish their task. Below depicts the wireframes of the 2 tasks that reflect the scenario as well. The completed scenarios and tasks can be found [here](https://www.figma.com/file/16GKBWDAnDaKnMN0ctXPzO/DH-110---ASSIGNMENT-7%2F8-HI-FI-Prototype?node-id=0%3A1&t=219rL1IFO8q0ik1X-0).
+Although pantry tracking seems like an easy task, users often feel overwhelmed by the amount of information that is shown in the main screen. By clearly showing what items are expiring soon, users are able to quickly grasp this information. Visibly showing categories can also help with the feeling of overwhelmingness as they can easily navigate the app and accomplish their task. Below depicts the wireframes of the 2 tasks that reflect the scenario as well. The completed scenarios and tasks can be found [here](https://www.figma.com/file/16GKBWDAnDaKnMN0ctXPzO/DH-110---ASSIGNMENT-7%2F8-HI-FI-Prototype?node-id=0%3A1&t=c98Y2IKIKg3K9DIy-1).
 
 <img width="636" alt="Screen Shot 2022-11-30 at 1 08 05 AM" src="https://user-images.githubusercontent.com/114601927/204754810-34e7bcd3-b821-4d5f-aec7-7516c5afb271.png">
 
 
 ### Graphic Design Element Variations
-While creating the prototype, I tested many different graphic design element variations of typography, shape, color, and light/dark modes that can be further viewed [here](https://mkylahyun.github.io/DH110/assignment006).
+While creating the prototype, I tested many different graphic design element variations of typography, shape, color, and light/dark modes that can be further viewed [here](https://mkylahyun.github.io/DH110/assignment006). 
+
+Further color variations can be found [here](https://www.figma.com/file/5OEGBNRDuOOJ74QofOlv5U/Design-Changes?node-id=0%3A1&t=TyZKPZmEyEXmD9nM-0). 
 
 
 ### High-Fidelity Prototype
-In hopes of encouraging individual action towards reducing food waste, I created an interactive high-fidelity prototype that can provide a more user-friendly interface for the pantry layout that make the expiring soon items more easily visible. I also added a feature where users can track their expenses and food waste to give users more motivation to use the app as well as continue to consume responsibly.
+In hopes of encouraging individual action towards reducing food waste, I created an interactive high-fidelity prototype that can provide a more user-friendly interface for the pantry layout that make the **expiring soon items more easily visible**. I also added a feature where users can **track their expenses and food waste** to give users more **motivation to use the app as well as continue to consume responsibly**.
 
 I used Figma to create this prototype and changed the interface design and flow from the previous lofi-prototype and design assignments. I kept the overall design but changed the colors to give it a more clean look. For the recipe and expense flows, I changed it to make it more simple per my previous impression test. I created less screens/clicks and incorporated a more visible interface design[... read more >> ](https://github.com/mkylahyun/DH110/tree/main/assignment007)
 
@@ -100,8 +102,9 @@ This interactive prototype supports 2 tasks:
 1. Finding items in the pantry section and seeing what items are expiring soon
 2. Tracking expenses and food waste to see personal progress
 
+The **first** prototype iteration can be found [here](https://www.figma.com/proto/leVkul1V7MAmqo8Sa6U1N6/DH110-Assignment07-Wireframes-with-GUI?node-id=133%3A26794&scaling=scale-down&page-id=0%3A1&starting-point-node-id=133%3A26794&show-proto-sidebar=1).
 
-The link to my interactive prototype can be found [here](https://www.figma.com/proto/16GKBWDAnDaKnMN0ctXPzO/DH-110---ASSIGNMENT-7%2F8-HI-FI-Prototype?node-id=407%3A26612&scaling=scale-down&page-id=0%3A1&starting-point-node-id=407%3A5668290).
+The link to my **final** interactive prototype can be found [here](https://www.figma.com/proto/16GKBWDAnDaKnMN0ctXPzO/DH-110---ASSIGNMENT-7%2F8-HI-FI-Prototype?node-id=407%3A26612&scaling=scale-down&page-id=0%3A1&starting-point-node-id=407%3A5668290).
 
 ### Evaluation and Revision History
 
