@@ -1,5 +1,5 @@
 # Cooklist App UX Redesign
-## Mikayla Noh
+## Mikayla Noh | DH110 | Fall 2022
 
 ### Introduction
 For the 2022 Spring quarter in Digital Humanities 110, students were given 6 design challenges in regards to United Nation's sustainable development plan to choose from. Out of the choices, I decided to focus on Goal 12 - Responsible Consumption and Production. While conducting research on this topic, I read from the UN [website](https://sdgs.un.org/goals/goal12), stating how each year, an estimated 1/3 of all food produced - equivalent to 1.3 billion tons - is wasted. 
